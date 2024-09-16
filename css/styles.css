@@ -527,6 +527,7 @@ video {
     .infos-card {
         width: 80%;
         height: auto;
+        margin: 10px;
     }
     .contact-container {
         flex-direction: column;
